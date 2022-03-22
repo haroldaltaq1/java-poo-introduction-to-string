@@ -5,5 +5,7 @@ public class ExampleString {
         String curso2 = new String("Programación Java");
         boolean esIgual = curso == curso2;
         System.out.println("esIgual = " + esIgual);
+
+        //
     }
 }
